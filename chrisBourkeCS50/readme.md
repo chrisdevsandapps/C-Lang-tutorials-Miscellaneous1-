@@ -6,25 +6,45 @@
 
 
 
-yung folder na `chrisBourke-cs50`, galing lang sa cs50 yung header file nun.
 
-as required yata by the course
 
 
 ```c
+
 //####################################################################
 //####################################################################
 
 /*
 
+hahaha
+
+hehehe
+
 */
+
+#include<stdlib.h>
+#include<stdio.h>
+
+int main() {
+
+    return 0;
+}
+
 ```
+
+
 
 <br> <br> <br>
 
+
+
 NOTES:
+
+1. yung folder na `chrisBourke-cs50`, galing lang sa cs50 yung header file nun.
+
 1. pass muna sa conditionals at loops na videos
 
+1. currently pause muna sa 5.1function
 
 
 <br> <br> <br>

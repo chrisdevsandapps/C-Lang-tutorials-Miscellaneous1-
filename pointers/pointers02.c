@@ -6,7 +6,8 @@
 #include <unistd.h>
 
 void spacer() {
-	printf("\n");
+	printf("##############################################\n");
+	printf("##############################################\n");
 }
 
 void add100(int *inputValue) {
