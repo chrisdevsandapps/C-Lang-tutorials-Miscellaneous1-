@@ -1,8 +1,8 @@
 
 
-#VAR1 = pointers01
-# VAR1 = pointers02
-VAR1 = loops01
+# VAR1 = pointers01
+ VAR1 = pointers02
+# VAR1 = loops01
 
 
 VAR2 = hello

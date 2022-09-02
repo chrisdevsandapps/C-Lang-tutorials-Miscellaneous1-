@@ -75,4 +75,35 @@ int main() {
 	return 0;
 }
 
+/*
+ 
+f1():
+
+pointerTest
+int var111 = 100;
+current value of var111: 100
+
+int *pointer1 = &var111
+value of &var111: 0x7ffee73e489c
+value of *pointer1: 100
+value of pointer1: 0x7ffee73e489c
+
+add100(&var111)
+value of &var111: 0x7ffee73e489c
+value of *pointer1: 200
+value of pointer1: 0x7ffee73e489c
+
+var111 = (*pointer1) + 10;
+value of &var111: 0x7ffee73e489c
+value of *pointer1: 210
+value of pointer1: 0x7ffee73e489c
+
+var111 = (*pointer1) + 10;
+value of &var111: 0x7ffee73e489c
+value of *pointer1: 220
+value of pointer1: 0x7ffee73e489c
+
+*/
+
+
 
