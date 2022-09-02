@@ -11,3 +11,4 @@ TODO
 
 - mali yung title sa github, recreate na lang ulet ng bagong repo
 
+- timer: https://www.youtube.com/watch?v=1KQqpiXxvWQ
